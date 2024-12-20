@@ -21,10 +21,10 @@ pkg install nodejs-lts
 pkg install git
 ```
    ```bash
-   git clone https://github.com/Not-D4rkCipherX/clayton_v3.git
+   git clone https://github.com/Not-D4rkCipherX/Claytonpro.git
    ```
    ```bash
-   cd clayton_v3
+   cd Clayton 
    ```
 
 2. **Instal Requirements:**
@@ -37,7 +37,7 @@ pkg install git
    ```
 4.**START THE BOT**
 ```bash
-node clayton.js
+node Claytonpro.js
 ```
 For Proxy :
 ```
